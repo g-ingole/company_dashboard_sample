@@ -1,0 +1,25 @@
+   [role=button]{
+     background-color: black;
+   } 
+   .navbr-links{
+     display: flex;
+     justify-content: space-between;
+   }
+ 
+   [type=button]:not(:disabled):hover{
+    background-color: red;
+   }
+   .css-hyum1k-MuiToolbar-root{
+    background-color: white;
+   }
+   *, *{
+    color: black;
+   }
+  .card-text{
+    font-size: 10px;
+    font-weight: bold;
+    color: gray;
+  }
+  .card-title{
+    font-weight: bold;
+  }
